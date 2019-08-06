@@ -1,0 +1,134 @@
+format-version: 1.2
+date: 03:05:2017 16:19
+saved-by: jesmith
+auto-generated-by: OBO-Edit 2.3.1
+default-namespace: chinchilla_species_and_sources
+
+[Term]
+id: CS:0000000
+name: Chinchilla species and sources
+created_by: JSmith
+creation_date: 2015-04-21T14:10:45Z
+
+[Term]
+id: CS:0000001
+name: Chinchilla lanigera
+def: "The chinchilla species with common name long-tailed chinchilla." [Taxon:34839]
+synonym: "long-tailed chinchilla" RELATED []
+xref: NCBI_Taxon:34839
+is_a: CS:0000000 ! Chinchilla species and sources
+created_by: JSmith
+creation_date: 2015-04-21T14:11:27Z
+
+[Term]
+id: CS:0000002
+name: Rrcjo:Chin
+def: "Outbred animals of species Chinchilla laniger sourced from R&R Chinchilla, Jenera, OH." [PMID:20591507, RGD:JRS]
+is_a: CS:0000001 ! Chinchilla lanigera
+created_by: JSmith
+creation_date: 2015-04-21T14:17:09Z
+
+[Term]
+id: CS:0000003
+name: Unsps:Chin
+def: "Outbred animals of species Chinchilla laniger from an unspecified source." [RGD:JRS]
+is_a: CS:0000001 ! Chinchilla lanigera
+created_by: JSmith
+creation_date: 2015-04-21T14:28:50Z
+
+[Term]
+id: CS:0000004
+name: Raulo:Chin
+def: "Outbred animals of species Chinchilla laniger sourced from Rauscher's chinchilla ranch, Larue, OH." [PMID:23092856, PMID:25348637, RGD:JRS]
+is_a: CS:0000001 ! Chinchilla lanigera
+created_by: JSmith
+creation_date: 2015-04-21T14:32:29Z
+
+[Term]
+id: CS:0000005
+name: Ryepo:Chin
+def: "Outbred animals of species Chinchilla laniger sourced from Ryerson Chinchilla Ranch, Plymouth, OH." [PMID:25734113, RGD:JRS]
+is_a: CS:0000001 ! Chinchilla lanigera
+created_by: JSmith
+creation_date: 2015-04-21T17:39:46Z
+
+[Term]
+id: CS:0000006
+name: Ritjo:Chin
+def: "Outbred animals of species Chinchilla laniger sourced from Ritterspach Chinchilla Ranch, Jenera, OH." [RGD:JRS]
+is_a: CS:0000001 ! Chinchilla lanigera
+created_by: JSmith
+creation_date: 2015-04-22T11:03:20Z
+
+[Term]
+id: CS:0000007
+name: Mccnwp:Chin
+def: "Outbred animals of species Chinchilla laniger sourced from McClenahan Chinchilla Ranch, New Wilmington, PA." [PMID:20433028, RGD:JRS]
+is_a: CS:0000001 ! Chinchilla lanigera
+created_by: JSmith
+creation_date: 2015-04-22T11:49:32Z
+
+[Term]
+id: CS:0000008
+name: Mourm:Chin
+def: "Outbred animals of species Chinchilla laniger sourced from Moulton Chinchilla Ranch, Rochester, MN." [PMID:19782149, RGD:JRS]
+is_a: CS:0000001 ! Chinchilla lanigera
+created_by: JSmith
+creation_date: 2015-04-22T13:16:32Z
+
+[Term]
+id: CS:0000009
+name: Chinchilla chinchilla
+def: "The chinchilla species with the common name short-tailed chinchillas." [NCBI_Taxon:10152]
+synonym: "short-tailed chinchilla" RELATED []
+xref: NCBI_Taxon:10152
+is_a: CS:0000000 ! Chinchilla species and sources
+created_by: JSmith
+creation_date: 2015-04-22T13:27:18Z
+
+[Term]
+id: CS:0000010
+name: Bocecw:Chin
+def: "Outbred animals of species Chinchilla laniger from Bobbie's Chinchillas in Eau Claire, WI." [RGD:JRS]
+synonym: "BS" RELATED []
+is_a: CS:0000001 ! Chinchilla lanigera
+created_by: jesmith
+creation_date: 2017-05-03T12:17:50Z
+
+[Term]
+id: CS:0000011
+name: Bbcdw:Chin
+def: "Outbred animals of species Chinchilla laniger from B and B Chinchillas in Dodgeville, WI." [RGD:JRS]
+synonym: "Walt" RELATED []
+is_a: CS:0000001 ! Chinchilla lanigera
+created_by: jesmith
+creation_date: 2017-05-03T12:19:07Z
+
+[Term]
+id: CS:0000012
+name: Abcci:Chin
+def: "Outbred animals of species Chinchilla laniger from ABC Chinchillas in Cary, IL." [RGD:JRS]
+synonym: "Mor" RELATED []
+is_a: CS:0000001 ! Chinchilla lanigera
+created_by: jesmith
+creation_date: 2017-05-03T12:21:07Z
+
+[Term]
+id: CS:0000013
+name: Wkdmw:Chin
+def: "Outbred animals of species Chinchilla laniger from WK's Designer Chins in Mosinee, WI." [RGD:JRS]
+synonym: "Torgerson" RELATED []
+is_a: CS:0000001 ! Chinchilla lanigera
+created_by: jesmith
+creation_date: 2017-05-03T12:22:15Z
+
+[Term]
+id: CS:0000014
+name: Cecww:Chin
+def: "Outbred animals of species Chinchilla laniger bred by C. F. in Wautoma, WI." [RGD:JRS]
+comment: C. F. is Cecil Featherston.
+synonym: "Cecil" RELATED []
+is_a: CS:0000001 ! Chinchilla lanigera
+created_by: jesmith
+creation_date: 2017-05-03T12:23:47Z
+
